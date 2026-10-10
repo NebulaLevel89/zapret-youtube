@@ -7,4 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Sitemap: https://github.com/NebulaLevel89/zapret-youtube
+Sitemap: https://github.com/nebulalevel89/zapret-youtube
